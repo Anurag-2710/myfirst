@@ -1,2 +1,0 @@
-# -OIBGRIP-TEPRATURE_CONVERTER
-link #https://aman1612ap.github.io/-OIBGRIP-TEPRATURE_CONVERTER/index.html
